@@ -2,6 +2,7 @@
 
 I'm a **Full-Stack Developer** passionate about building scalable and efficient web applications. I specialize in the **MERN Stack, Next.js, TypeScript, and database management** with Prisma & DrizzleORM.  
 
+🌐 Portfolio: [uttamjangir.me](https://uttamjangir.me)  
 ---
 
 ### 🚀 Featured Project  
