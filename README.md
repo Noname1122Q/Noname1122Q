@@ -35,7 +35,6 @@ I'm a **Full-Stack Developer** passionate about building scalable and efficient 
 
 ![Uttam's GitHub stats](https://github-readme-stats.vercel.app/api?username=NOName1122Q&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NOName1122Q&layout=compact&theme=radical)  
-![GitHub Streak](https://streak-stats.demolab.com?user=NOName1122Q&theme=radical)  
 
 ---
 
