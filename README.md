@@ -7,7 +7,12 @@ I'm a **Full-Stack Developer** passionate about building scalable and efficient 
 
 ### 🚀 Featured Project  
 
-#### [Quizy](https://github.com/your-repo-link)  
+#### [Podcast Clipper](https://github.com/Noname1122Q/ai-frontend)  
+🔹 Convert long podcasts to small clips  
+🔹 Auto face detection and alignment, cropping and subtitle addition  
+🔹 Modal AI with Inngest to automate proper step running  
+
+#### [Quizy](https://github.com/Noname1122Q/Quizy)  
 🔹 AI-powered quiz generation platform  
 🔹 Create quizzes on any topic using AI  
 🔹 Attempt quizzes and improve knowledge  
