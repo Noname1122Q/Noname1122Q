@@ -59,13 +59,9 @@ Next.js · REST APIs · Serverless
 
 ## 📊 GitHub Stats  
 
-![Uttam's GitHub stats](https://github-readme-stats.vercel.app/api?username=Noname1122Q&show_icons=true&theme=radical)
 ![GitHub Streak](https://streak-stats.demolab.com?user=Noname1122Q&theme=radical&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Noname1122Q&layout=compact&theme=radical)
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Noname1122Q&theme=react-dark&hide_border=true)
-![trophy](https://github-profile-trophy.vercel.app/?username=Noname1122Q&theme=radical&no-frame=true&no-bg=true&margin-w=15)
-![Profile Views](https://komarev.com/ghpvc/?username=Noname1122Q&label=Profile%20views&color=ff69b4&style=flat-square)
-![Snake animation](https://raw.githubusercontent.com/Noname1122Q/Noname1122Q/output/github-contribution-grid-snake-dark.svg)
 ![Minimal Stats](https://github-readme-stats.vercel.app/api?username=Noname1122Q&show_icons=true&theme=tokyonight&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Noname1122Q&layout=compact&theme=radical)
+
 
 ---
