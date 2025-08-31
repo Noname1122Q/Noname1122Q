@@ -1,50 +1,67 @@
-### Hi there! 👋 I'm Uttam Jangir  
+# 👋 Hi, I'm Uttam Jangir  
 
-I'm a **Full-Stack Developer** passionate about building scalable and efficient web applications. I specialize in the **MERN Stack, Next.js, TypeScript, and database management** with Prisma & DrizzleORM.  
+🎓 CS Student at **BITS Pilani** | 💻 Software Developer | ⚡ DevOps Enthusiast  
 
-🌐 Portfolio: [uttamjangir.me](https://uttamjangir.me)  
----
-
-### 🚀 Featured Project  
-
-#### [Podcast Clipper](https://github.com/Noname1122Q/ai-frontend)  
-🔹 Convert long podcasts to small clips  
-🔹 Auto face detection and alignment, cropping and subtitle addition  
-🔹 Modal AI with Inngest to automate proper step running  
-
-#### [Quizy](https://github.com/Noname1122Q/Quizy)  
-🔹 AI-powered quiz generation platform  
-🔹 Create quizzes on any topic using AI  
-🔹 Attempt quizzes and improve knowledge  
+🌐 [Portfolio](https://uttamjangir.me/) • 💼 [LinkedIn](https://www.linkedin.com/in/uttam-jangir/)  
+📧 [Email](mailto:uttamjangir1415@gmail.com) • 📱 [+91 9257733088](tel:+919257733088)  
 
 ---
 
-### 🛠️ Tech Stack  
-
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)  
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)  
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)  
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)  
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)  
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)  
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)  
+## 🧑‍💻 About Me  
+I’m an 18-year-old passionate about building scalable software and efficient systems.  
+I love solving problems, creating impactful projects, and learning new technologies to sharpen my skills in **software development** and **DevOps**.  
 
 ---
 
-### 📊 GitHub Stats  
+## 🚀 Skills  
 
-![Uttam's GitHub stats](https://github-readme-stats.vercel.app/api?username=NOName1122Q&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NOName1122Q&layout=compact&theme=radical)  
+**🖥️ Languages**  
+Java · Python · JavaScript · TypeScript · Bash  
+
+**⚙️ DevOps & Cloud**  
+Docker · Google Cloud · Microsoft Azure · GitHub Actions  
+
+**🗄️ Backend & Tools**  
+Spring Boot · Node.js · PostgreSQL · Prisma · Git  
+
+**🌐 Others**  
+Next.js · REST APIs · Serverless  
 
 ---
 
-### 📬 Contact Me  
+## 📌 Featured Projects  
 
-📧 Email: [uttamjangir1415@gmail.com](mailto:uttamjangir1415@gmail.com)  
-📱 Phone: +91 9257733088  
-🌐 Portfolio: [uttamjangir.me](https://uttamjangir.me)  
-🔗 LinkedIn: [Uttam Jangir](https://www.linkedin.com/in/uttam-jangir)  
+- 🎯 **[Projectile Simulation](https://github.com/uttamjangir)**  
+  Visual representation of projectile motion using backend physics calculations  
+
+- 🧠 **[Quizy](https://github.com/uttamjangir)**  
+  AI-powered quiz generator that creates and hosts quizzes on any topic  
+
+- 🎬 **[MovieWatch](https://github.com/uttamjangir)**  
+  Movie recommendation algorithm based on collaborative filtering and user suggestions  
+
+- 🛠️ **[EffortlessUI](https://github.com/uttamjangir) (WIP)**  
+  Personal collection of UI components and tutorials for faster development  
 
 ---
 
-💡 *Always learning, always building!* 🚀
+## 🌱 Current Learning  
+- Microsoft & Google Developer Programs / Learning Paths  
+- Deepening knowledge in **Cloud + DevOps**  
+
+---
+
+## 🏆 Achievements  
+- 🎉 Selected as **GirlScript Summer of Code 2025 Contributor**  
+- 🥇 Winner — **Website Design Competition at BITS Pilani**  
+
+---
+
+## 📊 GitHub Stats  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=uttamjangir&show_icons=true&theme=default&hide_border=true" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=uttamjangir&layout=compact&theme=default&hide_border=true" height="160" />
+</p>
+
+---
