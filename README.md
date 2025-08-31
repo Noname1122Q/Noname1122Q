@@ -31,16 +31,16 @@ Next.js · REST APIs · Serverless
 
 ## 📌 Featured Projects  
 
-- 🎯 **[Projectile Simulation](https://github.com/uttamjangir)**  
+- 🎯 **[Projectile Simulation](https://github.com/Noname1122Q/physics-simulations)**  
   Visual representation of projectile motion using backend physics calculations  
 
-- 🧠 **[Quizy](https://github.com/uttamjangir)**  
+- 🧠 **[Quizy](https://github.com/Noname1122Q/Quizy)**  
   AI-powered quiz generator that creates and hosts quizzes on any topic  
 
-- 🎬 **[MovieWatch](https://github.com/uttamjangir)**  
+- 🎬 **[MovieWatch](https://github.com/Noname1122Q/Netflix-Recommendation)**  
   Movie recommendation algorithm based on collaborative filtering and user suggestions  
 
-- 🛠️ **[EffortlessUI](https://github.com/uttamjangir) (WIP)**  
+- 🛠️ **[EffortlessUI]((https://github.com/Noname1122Q/EffortlessUI)) (WIP)**  
   Personal collection of UI components and tutorials for faster development  
 
 ---
@@ -60,8 +60,7 @@ Next.js · REST APIs · Serverless
 ## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=uttamjangir&show_icons=true&theme=default&hide_border=true" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=uttamjangir&layout=compact&theme=default&hide_border=true" height="160" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Noname1122Q&bg_color=ffffff&color=000000&line=3b82f6&point=1d4ed8&area=true&hide_border=true" width="100%"/>
 </p>
 
 ---
