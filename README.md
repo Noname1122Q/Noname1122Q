@@ -47,11 +47,6 @@ My work focuses on:
 ![OAuth2](https://img.shields.io/badge/OAuth2.0-000000?style=for-the-badge&logo=oauth) ![YouTube](https://img.shields.io/badge/YouTube_API-FF0000?style=for-the-badge&logo=youtube&logoColor=white) ![LLM APIs](https://img.shields.io/badge/LLM_APIs-412991?style=for-the-badge&logo=openai&logoColor=white)
 
 ---
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Noname1122Q&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Noname1122Q&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Noname1122Q&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
 
 ## Selected Work
 
