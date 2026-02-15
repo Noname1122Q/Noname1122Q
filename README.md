@@ -1,67 +1,76 @@
-# 👋 Hi, I'm Uttam Jangir  
+<h1 align="center">Uttam Jangir</h1>
 
-🎓 CS Student at **BITS Pilani** | 💻 Software Developer | ⚡ DevOps Enthusiast  
+<p align="center">
+  Backend-Focused Software Engineer <br/>
+  BITS Pilani — Computer Science
+</p>
 
-🌐 [Portfolio](https://uttamjangir.me/) • 💼 [LinkedIn](https://www.linkedin.com/in/uttam-jangir/)  
-📧 [Email](mailto:uttamjangir1415@gmail.com) • 📱 [+91 9257733088](tel:+919257733088)  
-
----
-
-## 🧑‍💻 About Me  
-I’m an 18-year-old passionate about building scalable software and efficient systems.  
-I love solving problems, creating impactful projects, and learning new technologies to sharpen my skills in **software development** and **DevOps**.  
-
----
-
-## 🚀 Skills  
-
-**🖥️ Languages**  
-Java · Python · JavaScript · TypeScript · Bash  
-
-**⚙️ DevOps & Cloud**  
-Docker · Google Cloud · Microsoft Azure · GitHub Actions  
-
-**🗄️ Backend & Tools**  
-Spring Boot · Node.js · PostgreSQL · Prisma · Git  
-
-**🌐 Others**  
-Next.js · REST APIs · Serverless  
+<p align="center">
+  <a href="https://uttamjangir.me/">Portfolio</a> •
+  <a href="https://www.linkedin.com/in/uttam-jangir/">LinkedIn</a> •
+  <a href="mailto:uttamjangir1415@gmail.com">Email</a>
+</p>
 
 ---
 
-## 📌 Featured Projects  
+## Engineering Focus
 
-- 🎯 **[Projectile Simulation](https://github.com/Noname1122Q/physics-simulations)**  
-  Visual representation of projectile motion using backend physics calculations  
-
-- 🧠 **[Quizy](https://github.com/Noname1122Q/Quizy)**  
-  AI-powered quiz generator that creates and hosts quizzes on any topic  
-
-- 🎬 **[MovieWatch](https://github.com/Noname1122Q/Netflix-Recommendation)**  
-  Movie recommendation algorithm based on collaborative filtering and user suggestions  
-
-- 🛠️ **[EffortlessUI]((https://github.com/Noname1122Q/EffortlessUI)) (WIP)**  
-  Personal collection of UI components and tutorials for faster development  
+I build backend-driven systems and production-ready SaaS platforms.  
+My work centers around API architecture, authentication systems, multi-tenant data modeling, and cloud-deployed services.
 
 ---
 
-## 🌱 Current Learning  
-- Microsoft & Google Developer Programs / Learning Paths  
-- Deepening knowledge in **Cloud + DevOps**  
+## Core Stack
+
+**Languages**  
+Java · TypeScript · JavaScript · Python  
+
+**Backend & Systems**  
+Spring Boot · REST APIs · JWT · Role-Based Access Control · WebSockets  
+
+**Data**  
+PostgreSQL · Relational Schema Design  
+
+**Infrastructure**  
+Docker · Azure · Redis · CI/CD  
+
+**External Integrations**  
+OAuth 2.0 · YouTube Data API · LLM APIs  
 
 ---
 
-## 🏆 Achievements  
-- 🎉 Selected as **GirlScript Summer of Code 2025 Contributor**  
-- 🥇 Winner — **Website Design Competition at BITS Pilani**  
+## Selected Work
+
+### [SpendStats](https://github.com/Noname1122Q/spend-stats)
+Financial analytics platform that processes bank statement PDFs, structures transactions via LLM APIs, and renders analytical dashboards over normalized relational schemas.
+
+### [YouTube Broadcaster](https://github.com/Noname1122Q/youtube-automation)
+Multi-account automation system supporting 80+ concurrent channel operations with secure OAuth integration and API rate-limit orchestration.
+
+### [Projectile Simulation Engine](https://github.com/Noname1122Q/physics-simulations)
+Cloud-deployed Spring Boot backend performing synchronous trajectory computation with containerized Azure deployment.
+
 
 ---
 
-## 📊 GitHub Stats  
+## GitHub Overview
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Noname1122Q&theme=radical&hide_border=true)
-![Minimal Stats](https://github-readme-stats.vercel.app/api?username=Noname1122Q&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Noname1122Q&layout=compact&theme=radical)
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Noname1122Q&show_icons=true&hide_border=true&rank_icon=github" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Noname1122Q&layout=compact&hide_border=true" height="160"/>
+</p>
 
 ---
+
+## Current Direction
+
+- Building backend-intensive systems  
+- Deepening understanding of scalable service design  
+- Strengthening data structures & algorithm foundations  
+
+---
+
+## Education
+
+Bachelors in Computer Science  
+BITS Pilani  
