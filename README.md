@@ -1,76 +1,88 @@
-<h1 align="center">Uttam Jangir</h1>
+# Hi, I'm Uttam Jangir 👋
 
-<p align="center">
-  Backend-Focused Software Engineer  
-  <br/>
-  BITS Pilani — Computer Science
-</p>
+Computer Science undergraduate at **BITS Pilani** — building full-stack and backend systems that are deployed, not just committed.
 
-<p align="center">
-  <a href="https://fullstack-portfolio-rosy.vercel.app/">Portfolio</a> ·
-  <a href="https://www.linkedin.com/in/uttam-jangir/">LinkedIn</a> ·
-  <a href="mailto:uttamjangir1415@gmail.com">Email</a>
-</p>
+I care about clean API design, real system architecture, and shipping things that actually work in production. Currently focused on backend engineering and full-stack development.
 
 ---
 
-## What I Build
+## 🔧 Tech Stack
 
-I design and develop backend-intensive systems and production-ready SaaS platforms.
-
-My work focuses on:
-
-- API architecture and service design  
-- Authentication and multi-tenant systems  
-- Structured data modeling  
-- Cloud-deployed backend services  
-- Reliable external API integrations  
-
----
-
-
-# 💻 Tech Stack:
 **Languages**
 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
 
-**Backend & Systems**
+**Frontend**
 
-![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![RestAPI](https://img.shields.io/badge/RestAPI-009688?style=for-the-badge&logo=air-canada&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 
-**Data & Infrastructure**
+**Backend**
 
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
 
-**External Integrations**
+**Databases**
 
-![OAuth2](https://img.shields.io/badge/OAuth2.0-000000?style=for-the-badge&logo=oauth) ![YouTube](https://img.shields.io/badge/YouTube_API-FF0000?style=for-the-badge&logo=youtube&logoColor=white) ![LLM APIs](https://img.shields.io/badge/LLM_APIs-412991?style=for-the-badge&logo=openai&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 
----
+**Cloud & DevOps**
 
-## Selected Work
-
-### [SpendStats](https://github.com/Noname1122Q/spend-stats)
-Financial analytics platform that processes bank statement PDFs, structures transactions via LLM APIs, and renders analytical dashboards over normalized relational schemas.
-
-### [YouTube Broadcaster](https://github.com/Noname1122Q/youtube-automation)
-Multi-account automation system supporting 80+ concurrent channel operations with secure OAuth integration and API rate-limit orchestration.
-
-### [Projectile Simulation Engine](https://github.com/Noname1122Q/physics-simulations)
-Cloud-deployed Spring Boot backend performing synchronous trajectory computation with containerized Azure deployment.
-
-
----
-
-## Engineering Direction
-
-- Deepening backend architecture expertise  
-- Improving algorithmic problem solving  
-- Building scalable distributed systems  
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 
 ---
 
-## Education
+## Featured Projects
 
-Bachelors in Computer Science  
-BITS Pilani  (2024 - 2028)
+### [GitPulse](https://github-globe-steel.vercel.app/) — Real-time GitHub Activity Globe
+> Next.js · GitHub REST API · Canvas API · Node.js
+
+A live GitHub activity visualiser rendering a 3D globe built from scratch using raw Canvas API — no graphics library. Polls the public GitHub event stream every 8 seconds with rate-limit fallback, renders per-country activity heatmaps with animated intensity blobs, and supports shareable deep-link URLs for repo-specific views.
+
+🔗 [Live](https://gitpulse.vercel.app/) · [Source](https://github.com/Noname1122Q/github-globe)
+
+---
+
+### [YouTube Broadcaster](https://github.com/Noname1122Q/youtube-automation) — Multi-channel Upload & Analytics Platform
+> Next.js · Node.js · YouTube Data API v3 · OAuth 2.0
+
+End-to-end platform for managing multiple YouTube channels — multi-account OAuth 2.0 authentication, automated video upload scheduling with a job queue, API rate-limit handling, and a unified analytics dashboard aggregating performance across all connected accounts.
+
+🔗 [Source](https://github.com/Noname1122Q/youtube-automation)
+
+---
+
+### [Projectile Simulation Engine](https://physics-simulations-five.vercel.app/) — Cloud-deployed Physics Backend
+> Spring Boot · React · Docker · Azure · CI/CD
+
+High-performance physics computation backend built with Spring Boot, containerized with Docker, deployed on Azure with automated CI/CD pipelines. Exposes a REST API consumed by a React frontend for real-time 2D trajectory visualisation — entire stack owned solo.
+
+🔗 [Live](https://physics-simulations-five.vercel.app/) · [Source](https://github.com/Noname1122Q/physics-simulations)
+
+---
+
+## 📊 GitHub Stats
+
+<p align="left">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Noname1122Q&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Noname1122Q&layout=compact&theme=github_dark&hide_border=true&langs_count=6" />
+</p>
+
+---
+
+## 📬 Get in Touch
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/uttam-jangir/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:uttamjangir1415@gmail.com)
+
+---
+
+<sub>Currently open to backend and full-stack internship opportunities.</sub>
